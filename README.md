@@ -1,4 +1,4 @@
-# Deploy Kubernetes in Virtualbox using Kubespray and Vagrant(using the default Vagrantfile)
+# Deploy Kubernetes in Virtualbox using Kubespray and Vagrant
 
 Install [vagrant](https://www.vagrantup.com/) and [Virtualbox](https://www.virtualbox.org/) first
 
